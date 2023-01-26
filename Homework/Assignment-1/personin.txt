@@ -1,0 +1,5 @@
+ann 10 5 
+astro 12 2  
+barb 14 6 
+bill 20 6 
+carl 22 7 
