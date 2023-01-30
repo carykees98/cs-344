@@ -1,0 +1,52 @@
+I used O in place of theta since I can't type theta as a symbol.
+
+1. insert
+
+	- Calculated time: O(n)
+	- Experimental time: O(n)
+ 
+2. insertionSort
+
+	- Calculated time: O(n^2)
+	- Experimental time: O(n^2)
+ 
+3. remove
+
+	- Calculated time: O(n)
+	- Experimental time: O(n)
+ 
+4. indexOf_iter
+
+	- Calculated time: O(lg(n))
+	- Experimental time: O(1) 
+ 
+5. selectionSort
+
+	- Calculated time: O(n^2)
+	- Experimental time: O(n^2)
+ 
+6. binSearches
+
+	- Calculated time: O(n)
+	- Experimental time: O(n)
+ 
+7. rmzeroes
+
+	- Calculated time: O(nlg(n))
+	- Experimental time: O(n^2)
+ 
+8. keepDoubling
+
+	- Calculated time: O(n^3)
+	- Experimental time: O(n^3)
+ 
+9. partition
+
+	- Calculated time: O(n^2)
+	- Experimental time: O(1)
+ 
+10. merge
+
+	- Calculated time: O(n)
+	- Experimental time: O(n)
+ 
