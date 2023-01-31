@@ -27,4 +27,4 @@
 
 There are 3 functions in the first part, and 2 functions in the second part (although one is already done). For each function, you need to turn in a copy of your function, a recurrence equation describing the running time (if the function is recursive), and the running time of the function.
 
-There are three files associated with each problem. You only have update the body of maxsum_fast in maxsum.cpp, and the body of power_iter, power_recur and power_half in power.cpp
+There are three files associated with each problem. You only have update the body of maxsum_fast in [maxsum.cpp](./My-Implementations/maxsum.cpp), and the body of power_iter, power_recur and power_half in [power.cpp](./My-Implementations/power.cpp)
