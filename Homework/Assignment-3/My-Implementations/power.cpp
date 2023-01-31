@@ -2,7 +2,7 @@
 
 long double power_iter(double x, int n)
 {
-    int result = 1;
+    long double result = 1;
     for (int i = 0; i < n; i++)
     {
         result *= x;
