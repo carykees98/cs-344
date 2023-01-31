@@ -1,4 +1,4 @@
-all: power maxsum
+all: power maxsum clean
 
 maxsum: maxsum.o
 	g++ main_maxsum.cpp maxsum.o -o maxsum
@@ -11,3 +11,6 @@ power: power.o
 
 power.o:
 	g++ -c power.cpp
+
+clean:
+	rm *.o
