@@ -1,0 +1,8 @@
+power_iter: n
+power_rec: n
+T(n) = T(n - 1) + 1
+power_half: lg(n)
+T(n) = T(n / 2) + n / 2
+
+maxsum_fast: n
+T(n) = 2 * T(n/2) + 1
