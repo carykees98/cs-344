@@ -23,8 +23,8 @@
 
 1.  The brute force iterative method that calculates all sums. __I have already done this.__
 
-2.  The recursive divide and conquer method that breaks the array in half, and uses the solutions for the 2 halves to get a solution for the entire array. Your function should only use a constant amount of time in addition to the recursive calls. There is no need for any loop or to use my sum_array function. But you should make heavy use of my maxsol and concat functions, using the algorithm I suggested in pictures at the end of class today.
+2.  The recursive divide and conquer method that breaks the array in half, and uses the solutions for the 2 halves to get a solution for the entire array. Your function should only use a constant amount of time in addition to the recursive calls. There is no need for any loop or to use my `sum_array` function. But you should make heavy use of my `maxsol` and `concat` functions, using the algorithm I suggested in pictures at the end of class today.
 
 There are 3 functions in the first part, and 2 functions in the second part (although one is already done). For each function, you need to turn in a copy of your function, a recurrence equation describing the running time (if the function is recursive), and the running time of the function.
 
-There are three files associated with each problem. You only have update the body of maxsum_fast in [maxsum.cpp](./My-Implementations/maxsum.cpp), and the body of power_iter, power_recur and power_half in [power.cpp](./My-Implementations/power.cpp)
+There are three files associated with each problem. You only have update the body of `maxsum_fast` in [maxsum.cpp](./My-Implementations/maxsum.cpp), and the body of `power_iter`, `power_recur` and `power_half` in [power.cpp](./My-Implementations/power.cpp)
